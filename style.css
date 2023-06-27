@@ -1,0 +1,54 @@
+body{
+    background: black;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid white;
+    color: black;
+    width: 1200px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:120px;
+    padding: 30px;
+    background: white;
+}
+hr{
+    width: 800px;
+}
+b{
+    color: green;
+}
+.para{
+    font-size: larger;
+}
+.card{
+    padding-left: 20px;
+}
+.mem{
+    margin-top: 80px;
+    padding-left: 80px;
+}
+.btn{
+    margin-left: 65px;
+    border-radius: 20%;
+    height: 60px;
+    width: 200px;
+    background: green;
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+    
+}
+.imge{
+    border-top-left-radius:10% ;
+    border-top-right-radius: 10%;
+}
+h3{
+    color: green;
+}
+a{
+    color: white;
+    border: 2px solid white;
+}
